@@ -6,7 +6,7 @@ algorithm to navigate a grid, communicating between a
 Python script and an ESP32 microcontroller over WiFi.
 
 ## Demo
-[Link to your demo video here]
+https://github.com/jsonhaa/Autonomous_A-star_Path_Finding_Robot/blob/main/Autonomous%20A-star%20Path%20Finding%20Robot%20Showcase%20Video.mp4
 
 ## Overview
 This project combines pathfinding algorithms with embedded 
