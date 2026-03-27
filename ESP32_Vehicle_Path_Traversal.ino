@@ -22,7 +22,7 @@ void setup() {
   delay(2000);
   Serial.begin(115200);
   WiFi.mode(WIFI_STA);
-  WiFi.begin("404 Network Not Found", "3.1415926535897932384626");
+  WiFi.begin("Wifi-Name", "Password");    // For wifi, I am using 2.4 GHz, since the ESP32 does not support 5 GHz wifi.
 
   pinMode(motor1pin1, OUTPUT); pinMode(motor1pin2, OUTPUT);
   pinMode(motor2pin1, OUTPUT); pinMode(motor2pin2, OUTPUT);
