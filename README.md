@@ -23,6 +23,9 @@ The system consists of two main components:
 4. ESP32 receives commands and drives motors accordingly
 5. Robot navigates from start to goal
 
+## Video Demonstration
+https://youtu.be/o0HHf6wGXgE
+
 ## Hardware
 - ESP32 microcontroller
 - L298N dual motor driver
