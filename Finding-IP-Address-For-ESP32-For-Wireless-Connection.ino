@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid = "404 Network Not Found";
-const char* password = "3.1415926535897932384626";
+const char* ssid = "WIFI_NAME";
+const char* password = "WIFI_PASSWORD";
 
 WiFiServer server(80);
 
