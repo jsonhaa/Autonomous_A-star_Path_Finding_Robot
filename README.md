@@ -75,4 +75,7 @@ python Astar.py
 - Add camera for position feedback
 - Expand to larger grid sizes
 
-
+## Notes
+I am using wifi as a wireless communication between the ESP32 and laptop.
+To connect the ESP32 wirelessly using wifi use the example code in arduino or even my uploaded code.
+A blue light should start flickering. Remember to press the EN/Reset button on the ESP32 so that it can tell you the IP Address before you can connect to it using whatever methods you require.
